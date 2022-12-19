@@ -1,0 +1,26 @@
+[
+    {
+      "gambar": "/icge.png",
+      "title": "BLOG Konferensi Kampus",
+      "role": "Front End",
+      "deskripsi": "Membuat BLOG untuk konferensi antara kampus luar negeri dan dalam negeri, juga terkoneksi dengan Zoom SDK"
+    },
+     {
+      "gambar": "/lite.png",
+      "title": "social media kampus",
+      "role": "Front End",
+      "deskripsi": "Membuat Social Media seperti instagram, memberikan info tentang hasil ujian jadwal kelas dan nilai, live chat, pembayaran kampus, meeting room menggunakan Zoom SDK"
+    },
+     {
+      "gambar": "/cms.png",
+      "title": "content management campus",
+      "role": "Front End",
+      "deskripsi": "Membuat management ujian , kelas, jadwal, kampus. Pengimputan jadwal kampus seperti google kalender"
+    },
+     {
+      "gambar": "/plevia.png",
+      "title": "membuat blog dan web static",
+      "role": "Full Stack",
+      "deskripsi": "Membuat Web Perusahaan dengan NextJs dan Wordpress"
+    }
+  ]

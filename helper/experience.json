@@ -1,0 +1,21 @@
+[
+    {
+      "tanggal": "JANUARI 2022 - OKTOBER 2022",
+      "posisi": "Front End",
+      "perusahaan": "Kelas Digital",
+      "deskripsi": "Membuat front end bedasarkan design yang udah di buat, menggunakan berbagai teknologi seperti, Nuxt Js, React Js, Tailwind css, adapun project yang sudah di buat seperti memanajemen jadwal, kelas kampus (Reactjs) , membuat Blog untuk konferensi kampus dalam negeri dan luar negeri(Nuxtjs), membuat media social seperti Instagram (Reactjs) "
+    },
+    {
+        "tanggal": "DESEMBER 2020 - NOVEMBER 2021",
+        "posisi": "Junior FullStack",
+        "perusahaan": "Sugarad",
+        "deskripsi": "Membuat Front end bedasarkan design yang udah di buat, Menggunakan Headless CMS, Kebanyakan Project membuat BLOG (Nextjs untuk front end, dan untuk back end Strapi) dan E-Commerce(Wordpress)"
+      },
+      {
+        "tanggal": "JANUARI 2020 - NOVEMBER 2020",
+        "posisi": "Front End",
+        "perusahaan": "Masjidpedia",
+        "deskripsi": "Membuat project untuk iklan seperti google ads, menggunakan Botstrap"
+      }
+   
+  ]
