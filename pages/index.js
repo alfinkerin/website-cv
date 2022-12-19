@@ -2,10 +2,16 @@
 import Image from "next/image";
 import Layout from "../components/Layout";
 import { BsFacebook, BsLinkedin, BsGithub, BsInstagram } from "react-icons/bs";
+import Link from "next/link";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <Layout>
+      <Head>
+        <title>CV ALFIN KERIN SAPUTRA</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <div className="w-full relative  h-screen block md:flex">
         <div className="w-full h-3/5 md:h-full md:w-1/3 bg-[#e6dace]" />
         <div className="w-full h-3/4 md:h-full md:w-2/3 bg-white" />
@@ -68,12 +74,16 @@ export default function Home() {
               Here's who I am & what I do
             </h2>
             <div className="flex justify-center items-center md:block">
-              <button className="w-32 mr-8 h-8 uppercase text-center font-medium text-sm  bg-blue-700 hover:bg-white  ring-offset-2 ring-2 ring-blue-700 hover:text-blue-700 text-white  rounded-full">
-                Resume
-              </button>
-              <button className="w-32 h-8 uppercase text-center font-medium text-sm  bg-white   ring-offset-2 ring-2 ring-black  text-black  rounded-full">
-                project
-              </button>
+              <Link className="" href="/resume">
+                <button className="w-32 mr-8 h-8 uppercase text-center font-medium text-sm  bg-blue-700 hover:bg-white  ring-offset-2 ring-2 ring-blue-700 hover:text-blue-700 text-white  rounded-full">
+                  RESUME
+                </button>
+              </Link>
+              <Link className="" href="/project">
+                <button className="w-32 h-8 uppercase text-center font-medium text-sm  bg-white   ring-offset-2 ring-2 ring-black  text-black  rounded-full">
+                  project
+                </button>
+              </Link>
             </div>
 
             <div className="mt-10">
