@@ -16,7 +16,7 @@ function Resume() {
           </h1>
           <a
             target="_blank"
-            href="https://docs.google.com/document/d/1ofyj5um_9_XsMFazW4cvCnY0nVerkygb/edit?usp=share_link&ouid=111602137618701059908&rtpof=true&sd=true"
+            href="https://docs.google.com/document/d/1xejeH3FPG5j1M9IAbtzVp-UoVEaNQJ-n/edit?usp=share_link&ouid=111602137618701059908&rtpof=true&sd=true"
             rel="noopener noreferrer"
           >
             <button className="my-2 md:my-0 w-32  h-8 uppercase text-center font-medium text-sm  bg-blue-700 hover:bg-white  ring-offset-2 ring-2 ring-blue-700 hover:text-blue-700 text-white  rounded-full">

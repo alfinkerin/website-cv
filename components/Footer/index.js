@@ -8,7 +8,9 @@ function Footer() {
       <div className="block md:flex">
         <div className="mx-4">
           <h1 className="flex  justify-center">CALL</h1>
-          <span className="font-light flex  justify-center">081392442246</span>
+          <span className="font-light flex  justify-center">
+            0812-5155-4494
+          </span>
         </div>
         <div className="mx-4">
           <h1 className="flex  justify-center">EMAIL</h1>
